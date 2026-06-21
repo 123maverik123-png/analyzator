@@ -1,0 +1,11 @@
+watchdog
+faster-whisper
+transformers
+torch
+torchaudio
+yandexcloud
+langchain-community
+python-dotenv
+requests
+sv-ttk
+python-vlc
