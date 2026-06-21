@@ -1,1 +1,7 @@
-
+{
+    "version": "1.0.1",
+    "release_date": "2026-06-21",
+    "changelog": "Исправлена ошибка плеера, добавлена диаризация.",
+    "download_url": "https://raw.githubusercontent.com/ваш-username/ваш-репозиторий/main/updates/update_v1.0.1.zip",
+    "sha256": "94e8b2a..."
+}
