@@ -1,7 +1,7 @@
 {
-    "version": "1.4",
+    "version": "1.5",
     "release_date": "2026-06-22",
     "changelog": "Исправлены некоторые ошибки.",
-    "download_url": "https://raw.githubusercontent.com/123maverik123-png/analyzator/main/updates/upd1.4.zip",
-    "sha256": "bb4cfa760316c4f5241b32d597c508d7dea2b2cf92ce0679541fa0e552f15242"
+    "download_url": "https://raw.githubusercontent.com/123maverik123-png/analyzator/main/updates/upd1.5.zip",
+    "sha256": "64f048353de0b7767cff85a12fecb40f7c6931f7662d752ad0006d76040936f5"
 }
