@@ -1,7 +1,7 @@
 {
-    "version": "1.3",
-    "release_date": "2026-06-21",
+    "version": "1.4",
+    "release_date": "2026-06-22",
     "changelog": "Исправлены некоторые ошибки.",
     "download_url": "https://raw.githubusercontent.com/123maverik123-png/analyzator/main/updates/upd1.4.zip",
-    "sha256": "08227190fd423845bf55b634211d4060476971896328e61e5ebea5815536dc71"
+    "sha256": "bb4cfa760316c4f5241b32d597c508d7dea2b2cf92ce0679541fa0e552f15242"
 }
