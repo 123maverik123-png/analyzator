@@ -4,4 +4,5 @@
     "changelog": "Исправлены некоторые ошибки.",
     "download_url": "https://github.com/123maverik123-png/analyzator/releases/download/1.5/gui1.6.zip",
     "sha256": "E3BA46A712A750F6BDF409457DBB8124BA298665E735406521CD9EA573763D85"
+    "python_version": "3.12"
 }
