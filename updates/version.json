@@ -1,6 +1,7 @@
 {
     "version": "1.1",
     "release_date": "2026-06-23",
-    "changelog": "Исправлены некоторые ошибки.",
-    "download_url": "https://github.com/123maverik123-png/analyzator/releases/download/1.1/MyCallAnalyzerSetup.exe"
+    "changelog": "Исправлена ошибка обновления, улучшена стабильность.",
+    "installer_url": "https://github.com/123maverik123-png/analyzator/releases/download/1.1/MyCallAnalyzerSetup.exe",
+    "python_version": "3.12"
 }
